@@ -1,11 +1,11 @@
 # c-bulletin-console-app-exemple
 
-Ce projet est un petit programme console en C pour effectuer des operations de calcules sur les notes, moyennes et affichage sous format bulletin ainsi que l'ecriture des resultats dans un fichier .txt.
+Ce projet est un petit programme console en C pour effectuer des operations de calcules sur les notes, moyennes et affichage sous format bulletin ainsi que l'ecriture des resultats dans un fichier .txt
 
 ## Prérequis
 
 - Connaissance de base en C
-- Connaissance des `stuctures` en C, `des tableaux` et de la notion de pointeur.
+- Connaissance des `stuctures` en C, `des tableaux` et de la notion de `pointeur`.
 
 ## Fonctionnalités
 
@@ -33,11 +33,11 @@ Ce projet est un petit programme console en C pour effectuer des operations de c
 - Veuillez cloner le repository Github sur votre ordinateur local
 - Si compresser, alors decompresser le.
 - ouvrez le fichier `main.c` à la racine du projet.
-- Ou simplement faire la commande `gcc -o bulletin.exe main.c` dans avec le chemin correcte de `main.c`.
+- Ou simplement faire la commande `gcc -o bulletin.exe main.c` avec le chemin correcte de `main.c`.
 
 ### Utiliser le binaire déjà compilé
 
-- Telecharger le fichier .exe dans la section `Releases` repository GitHub
+- Telecharger le fichier .exe dans la section `Releases` du repository GitHub
 - double clicker sur le fichier `bulletin.exe` apres decompression.
 
 ## Personnalisation

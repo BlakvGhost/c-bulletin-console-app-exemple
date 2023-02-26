@@ -1,0 +1,7 @@
+Nom Et Prénoms 	 Maths    	 Francais 	 Anglais 	 Physique 	 Algorithme 	 Moyenne 	 Mention
+
+
+
+Moyenne de la classe: -1.#J
+Moyenne la plus élevée: 0.00
+Moyenne la plus faible: 0.00
